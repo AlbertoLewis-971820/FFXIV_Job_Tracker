@@ -1,0 +1,97 @@
+# 30-Day Python Learning Guide
+
+## Week 1: Basics of Python
+**Day 1**: Introduction to Python
+- Install Python and set up your environment.
+- Learn about data types (int, float, string).
+
+**Day 2**: Control Structures
+- Understand if statements, loops (for, while).
+
+**Day 3**: Functions
+- Learn how to define and call functions.
+- Understand parameters and return values.
+
+**Day 4**: Lists and Tuples
+- Explore lists and tuples, their methods, and usage.
+
+**Day 5**: Dictionaries and Sets
+- Learn about dictionaries and sets, their methods, and usage.
+
+**Day 6**: File Handling
+- Understand how to read from and write to files.
+
+**Day 7**: Review and Practice
+- Review the concepts learned this week and practice coding exercises.
+
+## Week 2: Intermediate Concepts
+**Day 8**: Introduction to OOP
+- Learn about classes and objects.
+
+**Day 9**: Inheritance and Polymorphism
+- Understand inheritance and polymorphism in Python.
+
+**Day 10**: Modules and Packages
+- Learn how to create and use modules and packages.
+
+**Day 11**: Error Handling
+- Understand exceptions and how to handle errors.
+
+**Day 12**: Introduction to Libraries
+- Explore popular libraries (e.g., NumPy, Pandas).
+
+**Day 13**: Project Day: Anime Recommendation System
+- Start building the anime recommendation system.
+
+**Day 14**: Continue Project
+- Continue working on the anime recommendation system.
+
+## Week 3: Advanced Topics
+**Day 15**: Web Scraping Basics
+- Learn about web scraping using BeautifulSoup.
+
+**Day 16**: APIs and JSON
+- Understand how to work with APIs and JSON data.
+
+**Day 17**: Introduction to Databases
+- Learn about SQLite and how to interact with databases.
+
+**Day 18**: Project Day: FFXIV Job Tracker
+- Start building the FFXIV job tracker.
+
+**Day 19**: Continue Project
+- Continue working on the FFXIV job tracker.
+
+**Day 20**: Testing in Python
+- Learn about unit testing and test-driven development.
+
+**Day 21**: Review and Practice
+- Review the concepts learned this week and practice coding exercises.
+
+## Week 4: Final Projects
+**Day 22**: Project Day: FFXIV Market Tracker
+- Start building the FFXIV market tracker.
+
+**Day 23**: Continue Project
+- Continue working on the FFXIV market tracker.
+
+**Day 24**: Project Day: Manga Reader
+- Start building the manga reader application.
+
+**Day 25**: Continue Project
+- Continue working on the manga reader application.
+
+**Day 26**: Finalize Projects
+- Finalize all projects and prepare for presentation.
+
+**Day 27**: Documentation
+- Write documentation for your projects.
+
+**Day 28**: Review and Practice
+- Review all concepts and projects.
+
+**Day 29**: Prepare for Future Learning
+- Identify areas for further learning and improvement.
+
+**Day 30**: Celebrate Your Progress!
+- Reflect on what you've learned and plan your next steps.

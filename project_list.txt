@@ -1,0 +1,16 @@
+# Beginner Projects List
+
+## Anime Projects
+1. **Anime Recommendation System**: Create a simple app that recommends anime based on user preferences.
+2. **Anime Tracker**: Build a tool to track watched anime episodes and seasons.
+3. **Anime Quiz**: Develop a quiz application that tests knowledge about various anime series.
+
+## FFXIV Projects
+1. **FFXIV Job Tracker**: Enhance the existing job tracker to include more features like job comparisons and gear recommendations.
+2. **FFXIV Market Tracker**: Create a tool to track market prices for items in FFXIV.
+3. **FFXIV Raid Planner**: Build a planner for organizing raid schedules and team compositions.
+
+## Manga Projects
+1. **Manga Reader**: Develop a simple manga reader that allows users to read manga online.
+2. **Manga Collection Tracker**: Create an app to track manga collections and reading progress.
+3. **Manga Recommendation System**: Build a recommendation system for manga based on user ratings and preferences.
