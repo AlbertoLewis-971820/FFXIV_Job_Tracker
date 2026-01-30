@@ -1,0 +1,24 @@
+{
+    "jobs": [
+        {
+            "name": "White mage",
+            "level": "100",
+            "role": "Healer"
+        },
+        {
+            "name": "Astro",
+            "level": "100",
+            "role": "Healer"
+        },
+        {
+            "name": "test",
+            "level": "12",
+            "role": "DPS"
+        },
+        {
+            "name": "test2",
+            "level": "13",
+            "role": "dps"
+        }
+    ]
+}
