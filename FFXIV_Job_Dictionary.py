@@ -1,4 +1,26 @@
 jobs = []
+
+#Make function to display job details
+def display_jobs():
+    if not jobs:
+        print("There are no jobs available please add one.")
+    else:
+        for job in jobs:
+            print(f"Job Name: {job['name']}, Level: {job['level']}, Role: {job['role']}")
+
+def add_job(name,level,role):
+    name = input("Enter the job name: ")
+    level = input("Enter the job level: ")
+    role = input("Enter the job role: ")
+    new_job = {
+        "name": name,
+        "level": level,
+        "role": role
+    }
+    jobs.append(new_job)
+
+
+
 running = True
 while running:
     print("Welcome to the FFXIV Job Dictionary!")
@@ -10,31 +32,10 @@ while running:
     choice =input("Please choose a choice from the following options:")
 
     if choice == "1":
-        if not jobs:
-            print("No jobs available. Please add a new job first.")
-        else:
-            for job in jobs:
-                print(f"Job Name: {job['name']}, Level: {job['level']}, Role: {job['role']}")
-        if jobs == {}:
-            print("No job details available. Please add a new job first.")
+        display_jobs()
     elif choice == "2":
-        name = input("Enter Job Name: ")
-        try:
-            level = int(input("Enter Job Level: "))
-            if level < 1 or level > 100:
-                print("Level must be between 1 and 100.")
-                continue
-        except ValueError:
-            print("Invalid level. Please enter a number.")
-            continue
-        role = input("Enter Job Role: ")
-        new_job = {
-            "name": name,
-            "level": level,
-            "role": role
-        }
-        jobs.append(new_job)
-        print("New job added successfully!")
+        add_job(name="",level="",role="")
+
     elif choice == "3": 
         print("Exiting the program. Goodbye!")
         running = False
